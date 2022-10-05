@@ -12,7 +12,7 @@
 
 <div align=center>
 
-[![GODING-EO](https://img.shields.io/badge/Garosu--gil-Garosu--gil-red)](https://prose-club.notion.site/2022-SW-5e363587ff7d4f948408b50c7731b9c4)
+[![Garosu-gil](https://img.shields.io/badge/Garosu--gil-Garosu--gil-red)](https://prose-club.notion.site/2022-SW-5e363587ff7d4f948408b50c7731b9c4)
 
 [![notion](https://img.shields.io/badge/notion-notion-white?style=flat-square&logo=notion&logoColor=white&link=https://prose-club.notion.site/2022-SW-5e363587ff7d4f948408b50c7731b9c4)](https://prose-club.notion.site/2022-SW-5e363587ff7d4f948408b50c7731b9c4)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGarosu-gil&count_bg=%230200FB&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Garosu-gil)
