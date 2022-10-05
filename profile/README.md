@@ -1,4 +1,4 @@
-# GODING-EO
+# Garosu-gil
 
 <br />
 <p align="center">
