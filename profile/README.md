@@ -7,7 +7,10 @@
 
 ```
 💡 프로젝트 소개: 공통의 관심사를 가진 사람이 다양한 환경에서 자라서 문화와 관습을 바탕으로 다른 사람들과 함께 소통하는 서비스
-(a service where people with common interests grow up in diverse environments and communicate with others based on culture and customs)
+   프로젝트 주요기능 
+   * 게시글을 내가 원하는 언어로 번역
+   * 번역에 쓰인 단어들을 사전에서 찾아와 뜻과 설명을 출력
+   * 카테고리별 카페
 ```
 
 <div align=center>
